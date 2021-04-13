@@ -1,0 +1,23 @@
+body{
+    background-image: url(img/bg.jpg);
+    color: azure;
+}
+
+img{
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+ul{
+list-style-type: none;
+text-align: center;
+}
+
+a{
+    color: gold;
+}
+
+a:hover{
+    color: white;
+}
